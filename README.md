@@ -35,18 +35,18 @@ Released: August 2019
   </tr>
   <tr>
     <td>Train</td>
-    <td>58354</td>
-    <td>11027</td>
+    <td>58,354</td>
+    <td>11,027</td>
   </tr>
   <tr>
     <td>Dev</td>
-    <td>2392</td>
-    <td>654</td>
+    <td>2,392</td>
+    <td>6,54</td>
   </tr>
   <tr>
     <td>Test</td>
-    <td>4592</td>
-    <td>1237</td>
+    <td>4,592</td>
+    <td>1,237</td>
   </tr>
 </table>
 
@@ -66,18 +66,18 @@ Released: September 2019
   </tr>
   <tr>
     <td>Train</td>
-    <td>129759</td>
-    <td>28525</td>
+    <td>129,759</td>
+    <td>28,525</td>
   </tr>
   <tr>
     <td>Dev</td>
-    <td>7151</td>
-    <td>3444</td>
+    <td>7,151</td>
+    <td>3,444</td>
   </tr>
   <tr>
     <td>Test</td>
-    <td>7135</td>
-    <td>3442</td>
+    <td>7,135</td>
+    <td>3,442</td>
   </tr>
 </table>
 
