@@ -29,31 +29,59 @@ Released: August 2019
 
 <table>
   <tr>
-    <td><b>Split</b></td>
+    <td><b>Fold</b></td>
     <td><b>Samples</b></td>
     <td><b>Unique Images</b></td>
   </tr>
   <tr>
     <td>Train</td>
-    <td>58,355</td>
-    <td>11,028</td>
+    <td>58354</td>
+    <td>11027</td>
   </tr>
   <tr>
-    <td>Valid</td>
-    <td>2,393</td>
-    <td>655</td>
+    <td>Dev</td>
+    <td>2392</td>
+    <td>654</td>
   </tr>
   <tr>
     <td>Test</td>
-    <td>4,593</td>
-    <td>1,238</td>
+    <td>4592</td>
+    <td>1237</td>
   </tr>
 </table>
 
 
 ### v2.0
 
-To be released.
+Released: September 2019
+
+[Download](https://storage.cloud.google.com/gcc-data/OID-rated-image-caption/v2/oid.rated-image-captions.v2.zip?organizationId=433637338589)
+
+
+<table>
+  <tr>
+    <td><b>Fold</b></td>
+    <td><b>Samples</b></td>
+    <td><b>Unique Images</b></td>
+  </tr>
+  <tr>
+    <td>Train</td>
+    <td>129759</td>
+    <td>28525</td>
+  </tr>
+  <tr>
+    <td>Dev</td>
+    <td>7151</td>
+    <td>3444</td>
+  </tr>
+  <tr>
+    <td>Test</td>
+    <td>7135</td>
+    <td>3442</td>
+  </tr>
+</table>
+
+
 
 ### T2 Test Set
 
